@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">todo_app_hammad</string>
+    <string name="what_needs_to_be_done"><i>What needs to be done?</i></string>
+    <string name="all">All</string>
+    <string name="active">Active</string>
+    <string name="completed">Completed</string>
+    <string name="clear_completed">Clear Completed</string>
+</resources>
